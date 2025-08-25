@@ -2,7 +2,8 @@
 <h3 align="center"> Snowflake | AWS | Python | Building AI Solutions | Machine Learning | SQL 🚀 </h3>
 <h3 align="center"> AI Solution Architect | Machine Learning Engineer | Deep Learning | Computer Vision </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w1Zm1idmptMXNtNW5leTdkeGxjaXIyZXJwcjZmaW5rOGU4aHR5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aahash06&label=Profile%20views&color=0e75b6&style=flat" alt="aahash06" /> </p>
 
