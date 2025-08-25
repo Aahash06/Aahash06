@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aahash Raju Kamble</h1>
+<h1 align="center">Hi 👋, I'm Aahash Kamble</h1>
 <h3 align="center"> Snowflake | AWS | Python | Building AI Solutions | Machine Learning | SQL 🚀 </h3>
 <h3 align="center"> AI Solution Architect | Machine Learning Engineer | Deep Learning | Computer Vision </h3>
 
