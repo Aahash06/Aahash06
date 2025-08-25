@@ -9,8 +9,6 @@
 
 - 💼 I’m currently working as a **Data Engineer Associate** at Infocepts
 
-- 🔭 I’m currently working on **Celestial Crater Mapper: AI-Powered Object Detection in Astronomical Imagery**
-
 - 👨‍💻 I’m currently learning **AWS CI/CD (CodePipeline, CodeBuild, CodeDeploy)**
 
 - 🧠 I’m exploring **Snowflake, PySpark, Distributed AI Systems, and AI Ops on AWS**
@@ -19,7 +17,7 @@
 
 - 💬 Ask me about **AI/ML, Computer Vision, NLP, Python, GCP, AWS, or MLOps**
 
-- 📫 Reach me at **aahashkamble06@gmail.com**
+- 📫 Reach me at **kambleaahash@gmail.com**
 
 - 🌍 I’m passionate about building **AI-driven solutions** for **Healthcare, Space Research, and Automation**
 
